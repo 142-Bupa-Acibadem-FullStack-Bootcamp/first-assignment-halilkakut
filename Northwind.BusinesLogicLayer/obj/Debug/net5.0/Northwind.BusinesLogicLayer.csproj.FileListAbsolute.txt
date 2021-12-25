@@ -1,0 +1,12 @@
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\bin\Debug\net5.0\Northwind.BusinesLogicLayer.deps.json
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\bin\Debug\net5.0\Northwind.BusinesLogicLayer.dll
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\bin\Debug\net5.0\ref\Northwind.BusinesLogicLayer.dll
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\bin\Debug\net5.0\Northwind.BusinesLogicLayer.pdb
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.AssemblyInfo.cs
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.dll
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\ref\Northwind.BusinesLogicLayer.dll
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.BusinesLogicLayer\obj\Debug\net5.0\Northwind.BusinesLogicLayer.pdb
