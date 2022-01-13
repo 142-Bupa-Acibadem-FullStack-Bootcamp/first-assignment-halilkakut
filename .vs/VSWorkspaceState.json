@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Northwind.DataAccessLayer",
+    "\\Northwind.DataAccessLayer\\Abstract",
+    "\\Northwind.DataAccessLayer\\Concrete",
+    "\\Northwind.DataAccessLayer\\Concrete\\Entityframework",
+    "\\Northwind.DataAccessLayer\\Concrete\\Entityframework\\Context",
+    "\\Northwind.DataAccessLayer\\Concrete\\Entityframework\\UnitOfWork"
+  ],
+  "SelectedNode": "\\Northwind.DataAccessLayer\\Concrete\\Entityframework\\Context\\NorthwindContext.cs",
+  "PreviewInSolutionExplorer": false
+}

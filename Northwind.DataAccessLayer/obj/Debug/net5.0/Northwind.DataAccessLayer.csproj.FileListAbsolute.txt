@@ -16,3 +16,8 @@ C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Nort
 C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.DataAccessLayer\obj\Debug\net5.0\ref\Northwind.DataAccessLayer.dll
 C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.pdb
 C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Nortwind\Northwind\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.genruntimeconfig.cache
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Northwind\first-assignment-halilkakut\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Northwind\first-assignment-halilkakut\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Northwind\first-assignment-halilkakut\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Northwind\first-assignment-halilkakut\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.AssemblyInfo.cs
+C:\Users\halil\Desktop\WebProjects\BupaAcıbademBootcamp\Northwind\first-assignment-halilkakut\Northwind.DataAccessLayer\obj\Debug\net5.0\Northwind.DataAccessLayer.csproj.CoreCompileInputs.cache

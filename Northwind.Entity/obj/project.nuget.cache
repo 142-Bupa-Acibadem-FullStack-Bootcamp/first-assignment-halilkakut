@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeVfdsSIB7bD07Oo6uv045TsG65HHZ0sVbFPF/Irsb6PlbTVZZdtx5cNh9cGy2I+QQyyg6HQubzQm/5cTnQtZA==",
+  "dgSpecHash": "YytwfdmSXTq3iHuETdGEPmY022U0Gdn78I0NZ+foz6pEJWBFkou03p7fUDyxwmuJFw3QNfF6j5apZE/Qazt52A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Nortwind\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
+  "projectFilePath": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Northwind\\first-assignment-halilkakut\\Northwind.Entity\\Northwind.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halil\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\halil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -11,7 +11,3 @@ namespace Northwind.Entity.Base
     {
     }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 44d8fc68657769417d38072580a8205f8e2ab250

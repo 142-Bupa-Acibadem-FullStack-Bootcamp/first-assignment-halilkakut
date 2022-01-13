@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Nortwind\\Northwind\\Northwind.BusinesLogicLayer\\Northwind.BusinesLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Northwind\\first-assignment-halilkakut\\Northwind.BusinesLogicLayer\\Northwind.BusinesLogicLayer.csproj",
       "projectName": "Northwind.BusinesLogicLayer",
-      "projectPath": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Nortwind\\Northwind\\Northwind.BusinesLogicLayer\\Northwind.BusinesLogicLayer.csproj",
+      "projectPath": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Northwind\\first-assignment-halilkakut\\Northwind.BusinesLogicLayer\\Northwind.BusinesLogicLayer.csproj",
       "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Nortwind\\Northwind\\Northwind.BusinesLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\halil\\Desktop\\WebProjects\\BupaAcıbademBootcamp\\Northwind\\first-assignment-halilkakut\\Northwind.BusinesLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
